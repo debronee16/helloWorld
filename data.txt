@@ -1,0 +1,5 @@
+s01,nguyen van e,3.4
+s02,nguyen van b,3.7
+s03,nguyen van c,3.4
+s04,nguyen van d,3.4
+123,cuong,33.0
